@@ -1,0 +1,1 @@
+Nguồn nóng khi cấp bằng 12V (nên cấp từ 9V trở xuống)

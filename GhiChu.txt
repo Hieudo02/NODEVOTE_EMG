@@ -1,0 +1,2 @@
+- Dự án NodeVote dùng giao thức ESPNow để giao tiếp giữa các Node với SLave, Master. Và Master giao tiếp với Server thông qua WebSocket.
+- Lưu ý với giao thức ESPNow: Chỉ dùng trên băng tầng 2.4GHz và cùng channel với WiFi mà Master sử dụng để kết nối Server.
